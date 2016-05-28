@@ -1,2 +1,2 @@
 # hello-world
-Beginner Repository
+Just trying to learn about coding.
